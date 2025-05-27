@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "648e1373-1633-48a4-b362-4f6b1f737607")
 	(paper "A4")
+	(title_block
+		(title "Low Voltage Part")
+		(date "2025-05-27")
+		(rev "0.1")
+		(company "MaQjianJin")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
