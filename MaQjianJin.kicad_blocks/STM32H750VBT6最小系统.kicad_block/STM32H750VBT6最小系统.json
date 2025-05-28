@@ -1,0 +1,5 @@
+{
+"description": "STM32H750VBT6的最小系统，带晶振和Debug口",
+"keywords": "单片机,最小系统",
+"fields": {}
+}
